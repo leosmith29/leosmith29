@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leosmith29 - Snr Software|AI|Block-chain Engineer.
-- 👀 I’m interested in ... python,reactjs,nodejs,angularjs,vuejs,odoo solidity,django,flask,mongoosedb,postgres,mysql,laravel,php
+- 👀 I’m interested in ... python,reactjs,nodejs,angularjs,vuejs,odoo, dapps,solidity,django,flask,mongoosedb,postgres,mysql,laravel,php
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... coralpay29@gmail.com
